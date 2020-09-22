@@ -31,6 +31,10 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
+  <action id="Flutter.Toolbar.RestartAction">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
