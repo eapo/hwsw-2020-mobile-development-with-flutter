@@ -9,6 +9,10 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="CheckinProject" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -49,5 +53,12 @@
   <action id="QuickActionPopup" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Push" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
