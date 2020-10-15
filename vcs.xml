@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/AutSoft/hwsw-2020-mobile-development-with-flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pethoalpar/AndroidSwipeExampleSimple.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\flutter" />
